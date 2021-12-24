@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Spring Security - method-level-security-eg
+Implementation-Version: 1.0.0-SNAPSHOT
+Built-By: Manikanta
+Implementation-Vendor-Id: com.myeg.spring.security
+Build-Jdk: 1.8.0_261
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/method-level-security-eg
+Created-By: Maven Integration for Eclipse
+
